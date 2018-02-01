@@ -1,4 +1,4 @@
-# JVM.Safe
+![JVM.Safe](http://carlubian.azurewebsites.net/images/JVMSafe.png "JVM.Safe")
 ## Because exceptions belong in the past
 
 Start using JVM.Safe in your projects and enjoy the next level of safe, expressive and extensible code.
