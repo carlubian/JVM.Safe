@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/carlubian/JVM.Safe.svg?branch=master)](https://travis-ci.org/carlubian/JVM.Safe)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/28a6424eb4d64551bbc2051b4023d36c)](https://www.codacy.com/app/carlubian/JVM.Safe?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=carlubian/JVM.Safe&amp;utm_campaign=Badge_Grade)
+<hr/>
+
 ![JVM.Safe](http://carlubian.azurewebsites.net/images/JVMSafe.png "JVM.Safe")
 ## Because exceptions belong in the past
 
