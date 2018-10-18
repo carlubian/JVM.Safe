@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/carlubian/JVM.Safe.svg?branch=master)](https://travis-ci.org/carlubian/JVM.Safe)
+[![Build Status](https://carlubian.visualstudio.com/GitHub%20Interop/_apis/build/status/JVM.Safe%20Build)](https://carlubian.visualstudio.com/GitHub%20Interop/_build/latest?definitionId=12)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/28a6424eb4d64551bbc2051b4023d36c)](https://www.codacy.com/app/carlubian/JVM.Safe?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=carlubian/JVM.Safe&amp;utm_campaign=Badge_Grade)
 <hr/>
 
-![JVM.Safe](http://carlubian.azurewebsites.net/images/JVMSafe.png "JVM.Safe")
+![JVM.Safe](https://carlubian.azurewebsites.net/images/JVMSafe.png "JVM.Safe")
 ## Because exceptions belong in the past
 
 Start using JVM.Safe in your projects and enjoy the next level of safe, expressive and extensible code.
